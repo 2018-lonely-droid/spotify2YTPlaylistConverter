@@ -41,3 +41,7 @@ Thumbs.db
 
 # Exclude json file with youtube cookie creds
 headers_auth.json
+venv
+__pycache__
+.cache
+.gitignore
